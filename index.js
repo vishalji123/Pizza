@@ -8,3 +8,8 @@
     console.log("Your Samosa is ready")
   }
   samosa()
+
+    function Coke(){
+    console.log("Your Coke is ready")
+  }
+  Coke()
