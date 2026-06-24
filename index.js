@@ -13,3 +13,8 @@
     console.log("Your Coke is ready")
   }
   Coke()
+
+  function TCS(){
+    console.log(" One I will Definately work at TCS")
+  }
+  TCS()
